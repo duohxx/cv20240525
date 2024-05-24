@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Duo Han (Stephen)",
+    "occupation":"Embedded R&D Engineer",
+    "description":"I am a graduate of the Chinese University of Hong Kong, holding a degree in Electronic Information Engineering. Currently, an Embedded R&D Engineer in Beijing Haawking Technology Co., Ltd. My primary responsibilities include RTOS porting, embedded AI, and development related to Flash interfaces. With a strong foundation in embedded systems and a keen interest in advancing technology within the industry, I continuously seek to apply my technical expertise and innovative thinking to solve complex challenges in my field. Thanks for stopping by!",
+    "image":"profilepic.jpg",
+    "bio":"Embedded R&D Engineer - C/C++, RISC-V, RTOS, FlashApi, Embedded AI, Firmware",
+    "contactmessage":"Wanna leave a message?",
+    "email": "duohxx@gmail.com",
+    "phone": "+1(765)5603999",
+    "address":{
+      "street":"Zhongguancun",
+      "city":"Beijing",
+      "province":"Beijing",
+      "zip": "A1B 3G2"
+    },
+    "website": "https://github.com/duohxx/onlineCV/",
+    "resumedownload":"Duo Embedded 20240428.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/duoh0408",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/duo-han-99abb8248/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/duohxx",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here is the skill set I gained throughout my development years.",
+    "education":[
+      {
+        "school":"Memorial University of Newfoundland",
+        "location":"St. John's NL, Canada",
+        "duration":"September 2021 - March 2023",
+        "degree":"Master of Science",
+        "fieldOfStudy":"Computer Engineer"
+      },
+      {
+        "school":"Chinese University of Hong Kong",
+        "location":"Shatian, Hong Kong of China",
+        "duration":"September 2020 - June 2021",
+        "degree":"Master of Science",
+        "fieldOfStudy":"Electronic Engineer"
+      },
+      {
+        "school":"Capital Normal University",
+        "location":"Beijing, China",
+        "duration":"September 2016 - June 2020",
+        "degree":"Master of Science",
+        "fieldOfStudy":"Electronic and Information Engineer"
+      }
+    ],
+    "work":[
+      {
+        "company":"Beijing Haawking Technology Co., Ltd.",
+        "title":"Embedded R&D Engineer",
+        "duration":"April 2023 - present",
+        "description":"•\tDeveloped and trained a Neural Network for Arc Fault Detection, achieving 99% accuracy on HX2000 chips.\r•\tPort the RTOS (UCOSii, LiteOS, PandaOS) to HX2000 series RISCV DSP chips and performed test case adaptation. \n•\tDesigned FlashAPI drivers for HX2000 chips, enabling flexible erase, write, DCSM, and ECC error correction functionalities.\n•\tConducted comprehensive case design, RTL simulation, and chip testing for HX2000 series firmware, peripherals, boot processes, mass production tests, patches, and CMAC encryption algorithms.\n"
+      },
+      {
+        "company":"TensorChip Technology Co. Ltd. (Intern)",
+        "title":"Embedded Software Engineer (Intern)",
+        "duration":"August 2020 - May 2021",
+        "description":"•\tCompiled builderoot, and porting bootloader and Linux kernel to RISC-v (ux607) development board\n•\tTested and analyzed the performance of AI algorithms that running on the RISC-V chip\n•\tParticipated in Wall`E robot project. Designed a program that allows Wall’E to follow the registered face\n"
+      },
+      {
+        "company":"HiRain , Inc.",
+        "title":"Embedded Engineer (Intern)",
+        "duration":"January 2020 - March 2020",
+        "description":"•\tDeveloping millimeter wave radars, including IWR6843AOP and AWR1642boost millimeter wave sensors\n"
+      }
+    ],
+    "skills":[
+      {
+        "name":"RISC-V",
+        "level":"88%"
+      },
+      {
+        "name":"C/C++",
+        "level":"89%"
+      },
+      {
+        "name":"RTOS",
+        "level":"70%"
+      },
+      {
+        "name":"Embedded AI",
+        "level":"70%"
+      },
+      {
+        "name":"Firmware",
+        "level":"40%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Image Painting Style Transfer Website",
+        "category":"Researched multiple Image2Image Translation algorithms, applied Cycle-Consistent Adversarial Networks (CycleGAN) to achieve style transfer;",
+        "image":"cycleGan.png",
+        "url":"https://github.com/duohxx/OnlineStyleTransferByCycleGAN"
+      },
+      {
+        "title":"Online Gomoku (five-in-a-row) Game  ",
+        "category":"Applied Mini-Max searching tree & Alpha-beta pruning algorithm to achieve human-machine match",
+        "image":"Gomoku.png",
+        "url":"https://github.com/duohxx/OnlineGomoku"
+      },
+      {
+        "title":"Research on Simple Circuit Characteristic Analyzer Project ",
+        "category":"Implemented DDS and ADC to achieve the measurement of input and output resistance and amplifier gain, Applied a frequency sweep algorithm to measure the amplitude-frequency curve of circuit",
+        "image":"ucos.jpg",
+        "url":"https://github.com/duohxx/A-simple-circuit-characteristic-test-device-based-on-STM32"
+      }
+    ]
+  },
+  "maxims":{
+    "maxims":[
+      {
+        "text":"When something is important enough, you do it even if the odds are not in your favor.",
+        "user":"Elon Musk"
+      },
+      {
+        "text":"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it.",
+        "user":"Steve Jobs"
+      }
+    ]
+  }
+}
